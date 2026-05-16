@@ -1,5 +1,5 @@
 ---
-{"title":"Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro","date":"2020-11-17T15:34:30-03:00","categories":"Exército Brasileiro,Paleta,Design","tags":["paleta","cor","eb","rgb","cmyk","exercito","brasileiro"],"toc":true,"dg-publish":true,"permalink":"/blog/2020-11-17-paleta-cores-utilizadas-exercito/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-18T13:34:34.955-03:00","updated":"2025-08-18T08:16:59.541-03:00"}
+{"title":"Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro","date":"2020-11-17T15:34:30-03:00","categories":"Exército Brasileiro,Paleta,Design","tags":["paleta","cor","eb","rgb","cmyk","exercito","brasileiro"],"toc":true,"dg-publish":true,"permalink":"/blog/2020-11-17-paleta-cores-utilizadas-exercito/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-18T13:34:34.955-03:00","updated":"2025-08-18T08:16:59.541-03:00","dg-note-properties":{"title":"Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro","date":"2020-11-17T15:34:30-03:00","categories":"Exército Brasileiro,Paleta,Design","tags":"paleta,cor,eb,rgb,cmyk,exercito,brasileiro","toc":true}}
 ---
 
 
